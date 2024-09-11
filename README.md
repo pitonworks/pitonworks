@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **I think Iam funny**
 
-  I am Ömer Faruk Güngör, a software developer constantly in search of innovation in the tech world. My passion for software development and technology drives me forward every day. My interest in emerging technologies and my commitment to continuous learning inspire me to work on new projects and create innovative solutions.
+I am Ömer Faruk Güngör, a software developer constantly in search of innovation in the tech world. My passion for software development and technology drives me forward every day. My interest in emerging technologies and my commitment to continuous learning inspire me to work on new projects and create innovative solutions.
 
 My problem-solving skills and analytical thinking enable me to achieve effective results in complex software projects. My enthusiasm for new technologies keeps me up-to-date and allows me to stay on top of the latest trends. Additionally, I thrive in collaborative environments and actively contribute to team efforts.
 
