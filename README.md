@@ -1,16 +1,15 @@
-### Hi there 👋
-
-# 👋 **Merhaba! Ben [Kullanıcı Adınız]**
-
-Bir yazılım geliştirici, teknoloji meraklısı ve problem çözücü olarak, teknoloji dünyasında yeni projeler ve işbirlikleri arıyorum. Aşağıda benim hakkımda daha fazla bilgi bulabilirsiniz.
+# 👋 **Merhaba! Ben Ömer Faruk**
 
 ![Profil Fotoğrafı](https://github.com/pitonworks.png?size=200)
+Bir yazılım geliştirici, teknoloji meraklısı ve problem çözücü olarak, teknoloji dünyasında yeni projeler ve işbirlikleri arıyorum. Aşağıda benim hakkımda daha fazla bilgi bulabilirsiniz.
+
+
 
 ---
 
 ## 🚀 **Hakkımda**
 
-Ben [Kullanıcı Adınız], yazılım geliştirme ve teknolojiyi tutkuyla takip eden bir profesyonelim. Kapsamlı deneyimlerim ve projelerimle teknoloji dünyasında etkili ve yenilikçi çözümler üretmeye odaklanıyorum.
+Ben Ömer Faruk, yazılım geliştirme ve teknolojiyi tutkuyla takip eden bir profesyonelim. Kapsamlı deneyimlerim ve projelerimle teknoloji dünyasında etkili ve yenilikçi çözümler üretmeye odaklanıyorum.
 
 ## 🔧 **Kullandığım Teknolojiler**
 
