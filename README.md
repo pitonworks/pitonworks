@@ -20,11 +20,6 @@ Teknoloji dünyasındaki yeni fırsatları ve işbirliklerini dört gözle bekli
 - **TypeScript** ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 - **Git** ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-## 📈 **Statistikler**
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pitonworks&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=dracula)
-
-
 ## 🌐 **İletişim**
 
 - [LinkedIn Profilim](https://www.linkedin.com/in/omer-faruk-gungor)
