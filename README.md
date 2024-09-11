@@ -4,7 +4,7 @@
 
 Bir yazılım geliştirici, teknoloji meraklısı ve problem çözücü olarak, teknoloji dünyasında yeni projeler ve işbirlikleri arıyorum. Aşağıda benim hakkımda daha fazla bilgi bulabilirsiniz.
 
-![Profil Fotoğrafı](https://github.com/kullanici-adiniz.png?size=200)
+![Profil Fotoğrafı](https://github.com/pitonworks.png?size=200)
 
 ---
 
