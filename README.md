@@ -1,15 +1,12 @@
 # 👋 **Merhaba! Ben Ömer Faruk**
 
-![Profil Fotoğrafı](https://github.com/pitonworks.png?size=200)<br>
-Bir yazılım geliştirici, teknoloji meraklısı ve problem çözücü olarak, teknoloji dünyasında yeni projeler ve işbirlikleri arıyorum. Aşağıda benim hakkımda daha fazla bilgi bulabilirsiniz.
-
-
-
----
-
 ## 🚀 **Hakkımda**
+![Profil Fotoğrafı](https://github.com/pitonworks.png?size=200)<br>
+Ben Ömer Faruk Güngör, teknoloji dünyasında sürekli yenilik arayışında olan bir yazılım geliştiriciyim. Yazılım geliştirme ve teknoloji alanındaki tutkum, beni her gün daha ileriye taşıyor. Gelişen teknolojilere olan ilgim ve sürekli öğrenme arzum sayesinde, yeni projeler üzerinde çalışmayı ve yaratıcı çözümler üretmeyi seviyorum.
 
-Ben Ömer Faruk, yazılım geliştirme ve teknolojiyi tutkuyla takip eden bir profesyonelim. Kapsamlı deneyimlerim ve projelerimle teknoloji dünyasında etkili ve yenilikçi çözümler üretmeye odaklanıyorum.
+Problemleri çözme yeteneğim ve analitik düşünme becerim, karmaşık yazılım projelerinde etkili sonuçlar elde etmemi sağlıyor. Yeni teknolojilere olan ilgim, kendimi sürekli güncel tutmamı ve en son trendleri takip etmemi sağlıyor. Ayrıca, işbirlikçi bir çalışma tarzına sahip olup, ekip çalışmalarında da etkin bir şekilde rol alıyorum.
+
+Teknoloji dünyasındaki yeni fırsatları ve işbirliklerini dört gözle bekliyorum!
 
 ## 🔧 **Kullandığım Teknolojiler**
 
@@ -25,26 +22,14 @@ Ben Ömer Faruk, yazılım geliştirme ve teknolojiyi tutkuyla takip eden bir pr
 
 ## 📈 **Statistikler**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kullanici-adiniz&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pitonworks&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=dracula)
 
-## 💼 **Projelerim**
-
-- **[Proje Adı 1](https://github.com/kullanici-adiniz/proje-adı-1)**: Proje açıklaması.
-- **[Proje Adı 2](https://github.com/kullanici-adiniz/proje-adı-2)**: Proje açıklaması.
-- **[Proje Adı 3](https://github.com/kullanici-adiniz/proje-adı-3)**: Proje açıklaması.
 
 ## 🌐 **İletişim**
 
-- [LinkedIn Profilim](https://www.linkedin.com/in/kullanici-adiniz)
-- [Kişisel Web Sitem](https://kullanici-adiniz.com)
-- [Email](mailto:email@domain.com)
-
-## 📚 **Blog Yazılarım**
-
-- **[Yazı Başlığı 1](https://kullanici-adiniz.medium.com/yazi-basligi-1)**: Yazı açıklaması.
-- **[Yazı Başlığı 2](https://kullanici-adiniz.medium.com/yazi-basligi-2)**: Yazı açıklaması.
-
----
+- [LinkedIn Profilim](https://www.linkedin.com/in/omer-faruk-gungor)
+- [Kişisel Web Sitem](https://pitonstudios.com)
+- [Email](mailto:omergungor99@gmail.com)
 
 ## 📜 **Lisans**
 
