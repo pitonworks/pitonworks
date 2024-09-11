@@ -27,9 +27,7 @@ I am eagerly looking forward to new opportunities and collaborations in the tech
   <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pitonworks&show_icons=true&locale=en&layout=compact" alt="pitonworks" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pitonworks&" alt="pitonworks" /></p>
 
 
 
