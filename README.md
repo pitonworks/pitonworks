@@ -7,7 +7,7 @@ I am eagerly looking forward to new opportunities and collaborations in the tech
 
 - 👨‍💻  My Website and all of my projects are available at [Piton Studios](wwww.pitonstudios.com)
 
-- 📝 I regularly write articles on [#](#)
+- 📝 I regularly write articles on [Medium](#)
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
