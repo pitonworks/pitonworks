@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ömer Faruk</h1>
 <h3 align="center">A professional full-stack developer from Türkiye</h3>
 I am Ömer Faruk Güngör, a software developer constantly in search of innovation in the tech world. My passion for software development and technology drives me forward every day. My interest in emerging technologies and my commitment to continuous learning inspire me to work on new projects and create innovative solutions.
+<div align="center">
+  <a href="pitonstudios.tr><img src="https://static.wixstatic.com/media/d589bd_d559bdaa1c3f45818751c23d41706956~mv2.png" width="auto" height="300px"></a>
+</div>
 I am eagerly looking forward to new opportunities and collaborations in the technology world!
 
 - 🌱 I’m currently learning **AI-ML-DL**
@@ -26,9 +29,7 @@ I am eagerly looking forward to new opportunities and collaborations in the tech
   <img src="https://github-readme-stats.vercel.app/api?username=pitonworks&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pitonworks&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-<div align="center">
-  <img src="https://static.wixstatic.com/media/d589bd_d559bdaa1c3f45818751c23d41706956~mv2.png" width="auto" height="300px">
-</div>
+
 
 
 
