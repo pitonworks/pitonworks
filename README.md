@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ömer Faruk</h1>
-<h3 align="center">A passionate full-stack developer from Türkiye</h3>
+<h3 align="center">A professional full-stack developer from Türkiye</h3>
 I am Ömer Faruk Güngör, a software developer constantly in search of innovation in the tech world. My passion for software development and technology drives me forward every day. My interest in emerging technologies and my commitment to continuous learning inspire me to work on new projects and create innovative solutions.
 I am eagerly looking forward to new opportunities and collaborations in the technology world!
 
