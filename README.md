@@ -15,8 +15,8 @@ I am eagerly looking forward to new opportunities and collaborations in the tech
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/omer-faruk-gungor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omer-faruk-gungor" height="30" width="40" /></a>
-<a href="https://fb.com/pitonworks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pitonworks" height="30" width="40" /></a>
-<a href="https://instagram.com/666piton" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="666piton" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100089359021738" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pitonstudios" height="30" width="40" /></a>
+<a href="https://instagram.com/arlecsnoq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arlecsnoq" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/pitonfaruk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pitonfaruk" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/omergungor99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="omergungor99" height="30" width="40" /></a>
 </p>
