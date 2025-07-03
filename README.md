@@ -5,7 +5,7 @@
 </div>
 I am Ömer Faruk, a software developer constantly in search of innovation in the tech world. My passion for software development and technology drives me forward every day. My interest in emerging technologies and my commitment to continuous learning inspire me to work on new projects and create innovative solutions.
 I am eagerly looking forward to new opportunities and collaborations in the technology world!
-
+s
 - 🌱 I’m currently learning **AI-ML-DL**
 
 - 👨‍💻  My Website and all of my projects are available at [Piton Studios](https://www.pitonstudios.tr/)
