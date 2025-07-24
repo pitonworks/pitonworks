@@ -3,7 +3,7 @@
 <div align="center">
   <a href="https://www.pitonstudios.tr"> <img src="https://static.wixstatic.com/media/d589bd_d559bdaa1c3f45818751c23d41706956~mv2.png" width="auto" height="150px" alt="Piton Studios"></a>
 </div>
-I am Ömer Faruk, a software developer constantly in search of innovation in the tech world. My passion for software development and technology drives me forward every day. My interest in emerging technologies and my commitment to continuous learning inspire me to work on new projects and create innovative solutions.a
+I am Ömer Faruk, a software developer constantly in search of innovation in the tech world. My passion for software development and technology drives me forward every day. My interest in emerging technologies and my commitment to continuous learning inspire me to work on new projects and create innovative solutions.
 I am eagerly looking forward to new opportunities and collaborations in the technology world!
 
 - 🌱 I’m currently learning **AI-ML-DL**
