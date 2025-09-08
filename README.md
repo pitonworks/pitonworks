@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ömer Faruk</h1>
-<h3 align="center">Full-stack developer from Türkiye</h3>a
+<h3 align="center">Full-stack developer from Türkiye</h3>
 <div align="center">
   <a href="https://www.pitonstudios.tr"> <img src="https://static.wixstatic.com/media/d589bd_d559bdaa1c3f45818751c23d41706956~mv2.png" width="auto" height="150px" alt="Piton Studios"></a>
 </div>
