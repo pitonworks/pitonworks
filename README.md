@@ -27,10 +27,7 @@ I am Ömer Faruk, a software developer constantly in search of innovation in the
 <div align="center">
   <a href="https://www.pitonstudios.tr/projeler"> <img src="https://static.wixstatic.com/media/d589bd_6d1b1ebf0fcc43729937f8774f073da9~mv2.jpg" width="auto" height="250px" alt="Piton Studios Website"></a>
 </div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pitonworks&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pitonworks&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+
 
 
 
